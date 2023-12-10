@@ -1,0 +1,40 @@
+body {
+  /*background: #F8DA56;*/
+  background: url(c:\xampp\htdocs\bukutamu\image\login1.jpg);
+  background-size: cover;
+}
+.form-login {
+  margin-top: 13%;
+}
+.outter-form-login {
+  padding: 20px;
+  background: #ffb6f0;
+  position: relative;
+  border-radius: 5px;
+}
+.logo-login {
+  position: absolute;
+  font-size: 35px;
+  background: #21a957;
+  color: #ffffff;
+  padding: 10px 18px;
+  top: -40px;
+  border-radius: 50%;
+  left: 40%;
+}
+.inner-login .form-control {
+  background: #d3d3d3;
+}
+h3.title-login {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.forget {
+  margin-top: 20px;
+  color: #adadad;
+}
+.btn-custom-green {
+  background: #21a957;
+  color: #fff;
+}
